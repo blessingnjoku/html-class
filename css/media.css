@@ -1,0 +1,22 @@
+
+/* mobile  319px - 480px */
+/* ipad/tablet 481px-768px */
+/* desktop/laptops 760px - 1500px */
+
+
+
+@media (max-width:480px){
+    .container{
+        background-color: blue;
+    }
+    p{
+
+    }
+
+}
+@media (min-width:768px){
+    p{
+        background-color: brown;
+    }
+
+}

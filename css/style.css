@@ -1,0 +1,84 @@
+
+.navbar_container{
+    background-color: black;
+    width: 50%;
+}
+#btn{
+   width: 5rem;
+   background-color: brown;
+   font-size: 1.5em;
+}
+
+nav .logo{
+    color: #000;
+}
+.container {
+    width: 500px;
+}
+.container .box{
+    width: 70%;
+    height: 400px;
+    background-color: chocolate;
+}
+
+.content{
+    width: 300px;
+    height: 300px;
+    background-color: crimson;
+    /* padding: 30px; */
+    /* padding-left: 40px;
+    padding-top: 20px; */
+    /* padding: 20px 30px 40px 30px; */
+    padding: 30px 40px;
+    box-sizing: border-box;
+
+}
+.m-box{
+    /* margin: 40px; */
+    margin-top: 50px;
+    /* margin-left: 30px; */
+    /* margin: 30% auto; */
+
+
+}
+
+.border{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(97, 220, 20);
+     border-radius: 20px;
+    border:20px double rgb(13, 2, 2);
+    /* border-width: ;
+    border-style: ;
+    border-color: ; */
+}
+.b-radius{
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+    margin: auto;
+    /* border-radius: 20px; */
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 50px;
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+
+p{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 1;
+    text-align:right;
+    text-decoration:overline;
+    text-transform: lowercase;
+    color: brown;
+    text-shadow:3px  0px 5px rgb(55, 168, 83);
+    letter-spacing: 5px;
+}
